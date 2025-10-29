@@ -1,0 +1,17 @@
+[
+    {
+        "timestamp": "2025-10-29 11:57:36",
+        "cpu_status": {
+            "status": "Healthy",
+            "Usage": "25.0%"
+        },
+        "memory_status": {
+            "status": "Healthy",
+            "Usage": "79.7%"
+        },
+        "disk_status": {
+            "status": "Healthy",
+            "Usage": "42.8%"
+        }
+    }
+]
